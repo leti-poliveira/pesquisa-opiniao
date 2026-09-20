@@ -58,4 +58,6 @@ Atividade desenvolvida durante a Agenda 08 – Pesquisa de Opinião, do curso de
 ---
 
 💙 **Projeto desenvolvido para fins educacionais.**
+
 👩‍💻 **Desenvolvido por Letícia Paula**
+
